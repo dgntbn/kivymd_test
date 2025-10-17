@@ -1,2 +1,1 @@
-# kivymd_test
-alkol damıtım
+# kivymd_tesy
